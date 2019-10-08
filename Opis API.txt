@@ -1,0 +1,7 @@
+analiza tekstu pod kątem tego czy ma małe, duże litery, czy ma znaki specjalne, czy ma spacje.
+
+API będzie zawierać 4 endpointy:
+hasLowerCharacters - pierwszy przyjmuje String i zwraca liczbę mały liter ( w przypadku braku takich zwraca 0)
+hasUpperCharacters - drugi przyjmue String i zwraca liczbę dużych liter (w przypadku braku takich zwraca 0) 
+hasSpecialCharacters - trzeci przyjmuje String i zwraca liczbę znaków specjalnych liter ( w przypadku braku takich zwraca 0)
+hasSpaceCharacters - zwarty przyjmuje String i zwraca liczbę spacji ( w przypadku braku takich zwraca 0)
